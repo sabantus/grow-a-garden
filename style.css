@@ -1,0 +1,70 @@
+body {
+      margin: 0;
+      font-family: 'Ubuntu', sans-serif;
+      background-color: #e7fce7;
+      color: #333;
+      scroll-behavior: smooth;
+    }
+
+    /* --- Навігація --- */
+    .navbar {
+      background-color: #2e7d32;
+      display: flex;
+    }
+
+    .navbar a {
+      
+      color: white;
+      padding: 14px 20px;
+      text-decoration: none;
+    }
+
+
+    .header {
+      background-color: #43a047;
+      color: white;
+      text-align: center;
+      padding: 30px 20px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .section {
+      background-color: white;
+      padding: 20px;
+      border-radius: 12px;
+      margin-bottom: 25px;
+    }
+
+    img {
+      width: 100%;
+      border-radius: 10px;
+      margin-top: 10px;
+    }
+
+    .button {
+      background-color: #66bb6a;
+      color: white;
+      padding: 12px 20px;
+      text-decoration: none;
+      border-radius: 8px;
+      display: inline-block;
+      margin-top: 15px;
+    }
+
+
+    .footer {
+      background-color: #43a047;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
